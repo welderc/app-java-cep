@@ -1,0 +1,27 @@
+# Diretórios do Android Studio
+/.idea/
+/.gradle/
+/build/
+/captures/
+/*.iml
+/local.properties
+/.vscode/
+
+# Diretórios do Gradle
+.gradle/
+**/build/
+**/out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Dependências geradas automaticamente
+/.cxx/
+/.externalNativeBuild/
+/*.apk
+/*.aab
+/*.jar
+/*.keystore
+
+# Cache do Android Studio
+/.DS_Store
+/.mvn/
+/*.log
